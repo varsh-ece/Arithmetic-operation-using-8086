@@ -154,17 +154,26 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|   1200  - 12            |   1204  - 44             |
+|   1201  - 34            |   1205  - 51             |
+|   1202  - 12            |    1206  - 97            |
+|   1203  - 34            |    1207   0A             |
 
 #### Manual Calculations
+
+![WhatsApp Image 2025-08-26 at 05 55 17_0e441b4a](https://github.com/user-attachments/assets/c3182047-469a-40ae-a2f4-c729c3ef3212)
 
 (Add your calculation here)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="618" height="401" alt="Screenshot 2025-08-20 161307" src="https://github.com/user-attachments/assets/ab2e3d62-5388-4925-8548-330534a842d9" />
+
+<img width="615" height="210" alt="Screenshot 2025-08-20 160833" src="https://github.com/user-attachments/assets/ba97b7d9-9a00-4099-a99c-a9248a9bfde5" />
+
+
 
 ## 4. DIVISION
 
