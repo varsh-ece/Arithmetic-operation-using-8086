@@ -71,7 +71,9 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="643" height="207" alt="Screenshot 2025-08-24 171554" src="https://github.com/user-attachments/assets/6a2443de-d9bc-4ac5-80cd-e2ec62721859" />
+<img width="634" height="387" alt="image" src="https://github.com/user-attachments/assets/598d8bf0-1bfd-420b-9923-fe76d955f5be" />
+![WhatsApp Image 2025-08-26 at 23 10 25_fefabd1f](https://github.com/user-attachments/assets/626e9d5d-8068-4b9a-8d5f-df80c9531ee9)
+
 
 
 ## 2. SUBTRACTION
@@ -115,6 +117,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="599" height="366" alt="Screenshot 2025-08-24 173304" src="https://github.com/user-attachments/assets/31cfb6f9-503b-45f9-8ac6-d2e8736fc73a" />
 <img width="655" height="194" alt="Screenshot 2025-08-24 173200" src="https://github.com/user-attachments/assets/282200bb-dab3-43c7-9a86-e7a9b5a8843a" />
 
 
@@ -154,7 +157,7 @@ END
 
 #### Output Table
 
-| ----------------------- | ------------------------ |
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 |   1200  - 12            |   1204  - 44             |
 |   1201  - 34            |   1205  - 51             |
 |   1202  - 12            |    1206  - 97            |
