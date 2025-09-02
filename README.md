@@ -211,10 +211,13 @@ END
 ```
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|   1200  - 12            |   1204  - 01             |
+|   1201  - 34            |   1205  - 00             |
+|   1202  - 12            |                          |
+|   1203  - 34            |                          |
+
 
 #### Manual Calculations
 
